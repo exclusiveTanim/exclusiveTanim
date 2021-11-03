@@ -3,6 +3,5 @@
 - 🔭 I’m currently working as a Research Assistant at University of Stavanger.
 - 🌱 I’m currently pursuing my M.Sc in computational Engineering at University of Stavanger.
 - 👯 I’m looking for part time or full time job.
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Swift, Objective C, Web Application Development
 - 📫 How to reach me: email at tanim.ict@gmail.com
